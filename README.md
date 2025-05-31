@@ -1,6 +1,5 @@
 # 🔄 From Token to Action: State Machine Reasoning (SMR)
 
-[![GitHub](https://img.shields.io/badge/GitHub-SMR-blue)](https://github.com/ldilab/SMR)  
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2505.23059v1)
 
 ## 🤔 What is SMR?
