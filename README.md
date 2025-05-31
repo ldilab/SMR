@@ -1,6 +1,6 @@
 # 🔄 From Token to Action: State Machine Reasoning (SMR)
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2505.23059v1)
+**Paper link**: [From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval](https://arxiv.org/abs/2505.23059)
 
 ## 🤔 What is SMR?
 
