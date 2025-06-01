@@ -180,7 +180,7 @@ class OllamaModel:
             messages.append({'role': 'system', 'content': system_prompt})
         messages.append({'role': 'user', 'content': user_prompt})
         messages.append({'role': 'assistant', 'content': '<think>Okay, I think I have finished thinking.</think> {\n'})
-        #'<|beginning of thinking|>\nOkay, I think I have finished thinking.\n<|end of thinking|> {\n'
+        # in order to generate <think> in a fixed format
 
         # Count tokens in the messages in prompt
         token_count_input = 0
